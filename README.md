@@ -1,4 +1,4 @@
-# Machine Learning Colabs
+# Machine Learning on the Google Colaboratory Platform
 
 ## The Crash course
 
